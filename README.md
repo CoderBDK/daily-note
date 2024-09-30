@@ -1,1 +1,1 @@
-# daily-note.github.io
+# daily-note
